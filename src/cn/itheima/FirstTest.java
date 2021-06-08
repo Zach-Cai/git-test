@@ -7,4 +7,9 @@ public class FirstTest {
         System.out.println("hello git project");
         System.out.println("hello git project");
     }
+    public static void test(){
+        int i=0;
+        i +=10;
+        System.out.println(i);
+    }
 }
